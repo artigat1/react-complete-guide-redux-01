@@ -4,6 +4,7 @@
     <e p="C:\git\playground\react-complete-guide-redux" t="IncludeFlat">
       <e p="node_modules\react" t="IncludeRecursive" />
       <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-redux" t="IncludeRecursive" />
       <e p="node_modules\react-scripts" t="IncludeRecursive" />
       <e p="node_modules\redux" t="IncludeRecursive" />
     </e>
