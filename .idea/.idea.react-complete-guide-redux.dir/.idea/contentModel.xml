@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\git\playground\react-complete-guide-redux" t="IncludeFlat">
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-scripts" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\steve.doggett\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\steve.doggett\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\steve.doggett\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_.19.01" t="ExcludeRecursive" />
+  </component>
+</project>
