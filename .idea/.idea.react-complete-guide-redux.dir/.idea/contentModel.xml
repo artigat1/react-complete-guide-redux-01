@@ -5,6 +5,7 @@
       <e p="node_modules\react" t="IncludeRecursive" />
       <e p="node_modules\react-dom" t="IncludeRecursive" />
       <e p="node_modules\react-scripts" t="IncludeRecursive" />
+      <e p="node_modules\redux" t="IncludeRecursive" />
     </e>
     <e p="C:\Users\steve.doggett\.Rider2019.1\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\steve.doggett\.Rider2019.1\system\extResources" t="IncludeRecursive" />
